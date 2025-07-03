@@ -1,0 +1,22 @@
+baseURL = 'https://sam2008610.github.io'
+languageCode = 'zh-tw'
+title = '我的部落格'
+theme = 'PaperMod'
+
+[params]
+  author = "Livermor3"
+  description = "寫點東西"
+  
+[menu]
+  [[menu.main]]
+    name = "首頁"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "關於"
+    url = "/about/"
+    weight = 3
