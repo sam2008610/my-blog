@@ -9,11 +9,20 @@
     <lastBuildDate>Thu, 03 Jul 2025 22:56:25 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>關於</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 03 Jul 2025 22:56:25 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;關於我&#34;&gt;關於我&lt;/h1&gt;
+&lt;p&gt;歡迎來到我的個人部落格！&lt;/p&gt;
+&lt;h2 id=&#34;我是誰&#34;&gt;我是誰&lt;/h2&gt;
+&lt;p&gt;社畜，寫寫東西。&lt;/p&gt;
+&lt;h2 id=&#34;聯絡方式&#34;&gt;聯絡方式&lt;/h2&gt;
+&lt;p&gt;如果您有任何問題或想要交流，歡迎透過以下方式聯絡我：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/sam2008610&#34;&gt;sam2008610&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;X: &lt;a href=&#34;https://x.com/Liv3rM0r3&#34;&gt;Liv3rM0r3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>我的第一篇文章</title>
