@@ -9,6 +9,8 @@ tags: ["Hugo", "部落格"]
 
 這是我使用 Hugo 建立的第一篇文章！
 
+![測試圖片](images/Wj6Z3lt.jpg)
+
 ## 為什麼選擇 Hugo？
 
 - 速度快

@@ -1,22 +1,76 @@
 baseURL = 'https://sam2008610.github.io'
 languageCode = 'zh-tw'
 title = '我的部落格'
-theme = 'PaperMod'
+theme = 'blowfish'
 
 [params]
-  author = "Livermor3"
-  description = "寫點東西"
+images = ["images/933601.jpg"]
+defaultBackgroundImage = "images/933601.jpg"
+defaultFeaturedImage = "images/933601.jpg"
+defaultSocialImage = "images/933601.jpg"
+[params.author]
+	name = "Livermor3"
+description = "寫點東西"
+layout = "grid"
+showImage = true
+defaultColorScheme = "auto"
+links = [
+  { github = "https://github.com/sam2008610" },
+  { twitter = "https://x.com/Liv3rM0r3" },
+]
+
+
+[params.homeInfoParams]
+	Title = "歡迎來到我的部落格"
+	Content = "這裡是我分享想法和經驗的地方"
+
+[params.header]
+layout = "basic"
+
+[params.homepage]
+layout = "background"
+showRecent = true
+showRecentItems = 5
+cardView = true
+cardViewScreenWidth = false
+homepageImage = "images/933601.jpg"
+layoutBackgroundBlur = true
+
+[params.article]
+showDate = true
+showAuthor = true
+showReadingTime = true
+showWordCount = true
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
   
+[params.list]
+showCards = true
+cardView = true
+cardViewScreenWidth = false
+constrainItemsWidth = false
+showTableOfContents = true
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
+
+[params.term]
+cardView = true
+cardViewScreenWidth = false
+showHero = true
+heroStyle = "background"
+
 [menu]
-  [[menu.main]]
-    name = "首頁"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "文章"
-    url = "/posts/"
-    weight = 2
-  [[menu.main]]
-    name = "關於"
-    url = "/about/"
-    weight = 3
+	[[menu.main]]
+		name = "首頁"
+		url = "/"
+		weight = 1
+	[[menu.main]]
+		name = "文章"
+		url = "/posts/"
+		weight = 2
+	[[menu.main]]
+		name = "關於"
+		url = "/about/"
+		weight = 3

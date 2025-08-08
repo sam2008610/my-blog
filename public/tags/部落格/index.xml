@@ -1,27 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>部落格 on 我的部落格</title>
-    <link>http://localhost:1313/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
-    <description>Recent content in 部落格 on 我的部落格</description>
-    <generator>Hugo -- 0.147.9</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>我的第一篇文章</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;歡迎來到我的部落格&#34;&gt;歡迎來到我的部落格&lt;/h1&gt;
-&lt;p&gt;這是我使用 Hugo 建立的第一篇文章！&lt;/p&gt;
-&lt;h2 id=&#34;為什麼選擇-hugo&#34;&gt;為什麼選擇 Hugo？&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;速度快&lt;/li&gt;
-&lt;li&gt;易於使用&lt;/li&gt;
-&lt;li&gt;豐富的主題&lt;/li&gt;
-&lt;li&gt;完全免費&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>部落格 on 我的部落格</title><link>https://sam2008610.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</link><description>Recent content in 部落格 on 我的部落格</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2025 Livermor3</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://sam2008610.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇文章</title><link>https://sam2008610.github.io/posts/my-first-post/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://sam2008610.github.io/posts/my-first-post/</guid><description>&lt;h1 class="relative group">歡迎來到我的部落格
+&lt;div id="歡迎來到我的部落格" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%ad%a1%e8%bf%8e%e4%be%86%e5%88%b0%e6%88%91%e7%9a%84%e9%83%a8%e8%90%bd%e6%a0%bc" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>這是我使用 Hugo 建立的第一篇文章！&lt;/p>
+&lt;p>
+&lt;figure>
+&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="測試圖片"
+srcset="
+/images/Wj6Z3lt_hu_f19f57701117cb11.jpg 330w,
+/images/Wj6Z3lt_hu_658c436c8d667e1c.jpg 660w,
+/images/Wj6Z3lt_hu_d2d856322d2d67c1.jpg 1280w
+"
+data-zoom-src="https://sam2008610.github.io/images/Wj6Z3lt.jpg"
+src="https://sam2008610.github.io/images/Wj6Z3lt.jpg">
+&lt;/figure>
+&lt;/p>
+&lt;h2 class="relative group">為什麼選擇 Hugo？
+&lt;div id="為什麼選擇-hugo" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e7%82%ba%e4%bb%80%e9%ba%bc%e9%81%b8%e6%93%87-hugo" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>速度快&lt;/li>
+&lt;li>易於使用&lt;/li>
+&lt;li>豐富的主題&lt;/li>
+&lt;li>完全免費&lt;/li>
+&lt;/ul></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sam2008610.github.io/posts/my-first-post/feature.jpg"/></item></channel></rss>
