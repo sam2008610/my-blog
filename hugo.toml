@@ -4,10 +4,8 @@ title = '我的部落格'
 theme = 'blowfish'
 
 [params]
-images = ["images/933601.jpg"]
-defaultBackgroundImage = "images/933601.jpg"
-defaultFeaturedImage = "images/933601.jpg"
-defaultSocialImage = "images/933601.jpg"
+colorScheme = "slate"  # 使用深灰色配色方案
+defaultColorScheme = "dark"  # 設定預設為深色模式
 [params.author]
 	name = "Livermor3"
 description = "寫點東西"
@@ -28,38 +26,30 @@ links = [
 layout = "basic"
 
 [params.homepage]
-layout = "background"
+layout = "profile"
 showRecent = true
-showRecentItems = 5
+showRecentItems = 6
 cardView = true
 cardViewScreenWidth = false
-homepageImage = "images/933601.jpg"
-layoutBackgroundBlur = true
+layoutBackgroundBlur = false
 
 [params.article]
 showDate = true
 showAuthor = true
-showReadingTime = true
-showWordCount = true
-showHero = true
-heroStyle = "background"
-layoutBackgroundBlur = true
+showReadingTime = false
+showWordCount = false
   
 [params.list]
 showCards = true
 cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
-showTableOfContents = true
-showHero = true
-heroStyle = "background"
-layoutBackgroundBlur = true
+showTableOfContents = false
 
 [params.term]
-cardView = true
+cardView = false
 cardViewScreenWidth = false
-showHero = true
-heroStyle = "background"
+showHero = false
 
 [menu]
 	[[menu.main]]
