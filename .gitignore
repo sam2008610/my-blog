@@ -1,0 +1,21 @@
+# Hugo build output
+/public/
+
+# Hugo resources
+/resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.local
+
